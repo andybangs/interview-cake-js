@@ -1,6 +1,6 @@
 'use strict'
 
-const kthToLastNode = require('./ab-solution-1')
+const kthToLastNode = require('./ab-solution-3')
 
 /**
  * You have a linked list and want to find the kth to last node.
